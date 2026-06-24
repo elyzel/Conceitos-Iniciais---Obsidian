@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"bb511e04852b8835","type":"text","text":"Ideias","x":-680,"y":20,"width":250,"height":60},
+		{"id":"20f8c3110e17cf34","type":"file","file":"Templates/Básico.md","x":-260,"y":-350,"width":400,"height":400},
+		{"id":"10007c5c931af84c","type":"text","text":"Ideia 2","x":-80,"y":640,"width":250,"height":60},
+		{"id":"333de9501c1e21d7","type":"file","file":"Lion.jpg","x":-120,"y":120,"width":225,"height":400}
+	],
+	"edges":[
+		{"id":"7285f194c47e10a4","fromNode":"bb511e04852b8835","fromSide":"bottom","toNode":"10007c5c931af84c","toSide":"left"},
+		{"id":"92f4a12b4a822230","fromNode":"bb511e04852b8835","fromSide":"top","toNode":"20f8c3110e17cf34","toSide":"left"},
+		{"id":"19049014bec3a2ba","fromNode":"bb511e04852b8835","fromSide":"right","toNode":"333de9501c1e21d7","toSide":"left"}
+	]
+}
