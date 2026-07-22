@@ -39,6 +39,20 @@ __texto em negrito__
 `código aqui`
 ```
 
+# Espaçamento
+
+1. Quebra de Página
+
+```
+<div style="page-break-after: always;"></div>
+```
+
+2. Espaço singular
+
+```
+<br>
+```
+
 
 # Conceitos Matemáticos no Markdown
 
